@@ -67,20 +67,22 @@
 </div>
 
 ## ⚡️Contact me
-<p align="center"><img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/></p>
-
+<br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/wilian-fidelis-79aab0115/" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="LinkedIn" style="margin: 5px;" />
+  <a href="https://www.linkedin.com/in/wilian-fidelis-79aab0115/" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="LinkedIn"/>
   </a>
-  
-  <a href="mailto:wilian.fidelis.adler@gmail.com" target="_blank">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="LinkedIn" style="margin: 5px;" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:wilian.fidelis.adler@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="Gmail" />
   </a>
 </p>
+<br>
+<p align="center"><img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/></p>
+
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
 ---
