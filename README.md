@@ -8,7 +8,7 @@
 </p>
 <!-- Banner centralizado -->
 <p align="center">
-  <img src="https://i.ibb.co/9HzthvHr/banner-3.png" alt="MasterHead" />
+  <img src="https://i.ibb.co/9HzthvHr/banner-3.png" alt="MasterHead" width="100%"/>
 </p>
 
 ---
