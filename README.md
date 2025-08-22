@@ -78,8 +78,7 @@
   </a>
 </p>
 <br>
-<p align="center"><img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/></p>
-
+<p align="center"><img width="42" height="42" src="https://img.icons8.com/skeuomorphism/32/brazil-circular.png" alt="brazil-circular"/></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
